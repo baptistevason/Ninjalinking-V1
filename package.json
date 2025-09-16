@@ -4,9 +4,9 @@
   "description": "Frontend pour le SAAS NinjaLinking",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "dev": "next dev .",
+    "build": "next build .",
+    "start": "next start .",
     "lint": "next lint",
     "type-check": "tsc --noEmit"
   },
